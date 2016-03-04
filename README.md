@@ -6,5 +6,7 @@ This is an example of how to show different parts... blah blah blah
 ##Purpose
 
 ## Deployment
+Deployment text blah blah blah things things more things
 
 ##How To Contribute
+More text blah blah
