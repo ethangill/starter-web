@@ -10,3 +10,5 @@ Deployment text blah blah blah things things more things
 
 ##How To Contribute
 More text blah blah
+
+2016 GIT Training
