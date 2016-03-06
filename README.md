@@ -9,6 +9,5 @@ This is an example of how to show different parts... blah blah blah
 Deployment text blah blah blah things things more things
 
 ##How To Contribute
-More text blah blah
-
+Please fork this repository and then issue pull requests for review
 2016 GIT Training
