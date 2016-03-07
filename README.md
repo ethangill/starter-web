@@ -1,5 +1,5 @@
 #Starter Web Project
-This is a simple website for showing how to use git and github.... Adding a line for rebasing examples.
+This is a simple website for showing how to use git and github.... Adding a line for rebasing example, then more changes from my feature branch too.
 ##Introduction
 This is an example of how to show different parts... blah blah blah
 
