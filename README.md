@@ -10,4 +10,4 @@ Deployment text blah blah blah things things more things
 
 ##How To Contribute
 Please fork this repository and then issue pull requests for review
-2016 GIT Training
+2016 GIT TRAINING. All rights reserved
