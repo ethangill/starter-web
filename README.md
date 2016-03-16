@@ -3,6 +3,8 @@ This is a simple website for showing how to use git and github.... Adding a line
 ##Introduction
 This is an example of how to show different parts... blah blah blah
 
+Adding a line blah blah for stash
+
 ##Purpose
 
 ## Deployment
